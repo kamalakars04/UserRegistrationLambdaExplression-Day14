@@ -26,8 +26,6 @@
                 //// Add the details into the list
                 registeredUsers.Add(userDetails);
             }
-            //// Validating given email samples
-            userDetails.ValidateSampleEmail();
         }
     }
 }
